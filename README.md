@@ -40,7 +40,7 @@ self-heals when any agent fails — no human intervention required.
    ```
 
 ## Usage
-1. Open http://localhost:5173
+1. Open [http://localhost:5173](http://swarmx.onrender.com/)
 2. Enter mission name and agent count (try 50 for the demo)
 3. Click LAUNCH MISSION
 4. Watch agents spread across the search area

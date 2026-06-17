@@ -40,7 +40,7 @@ self-heals when any agent fails — no human intervention required.
    ```
 
 ## Usage
-1. Open [http://localhost:5173](http://swarmx.onrender.com/)
+1. Open http://localhost:8000
 2. Enter mission name and agent count (try 50 for the demo)
 3. Click LAUNCH MISSION
 4. Watch agents spread across the search area
@@ -56,3 +56,5 @@ self-heals when any agent fails — no human intervention required.
 - Backend: FastAPI + asyncio simulation engine + SQLite
 - Frontend: React + Canvas rendering + Framer Motion
 - Algorithm: Voronoi partitioning + boustrophedon coverage paths
+
+Deployed Link : http://swarmx.onrender.com/
